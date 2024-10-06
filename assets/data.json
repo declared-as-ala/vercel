@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "Projet d'interview de David Lynch",
+    "description": "Le projet d'interview de David Lynch, une série documentaire captivante réalisée par Austin Lynch et Jason S, relate un voyage de 20 000 miles à travers l'Amérique à travers 121 courtes interviews avec des individus de petites villes et de zones rurales. Prévu pour une réédition en HD sur YouTube à l'été 2024, cette série offre un aperçu intime des histoires diverses et non filtrées des Américains ordinaires, capturant la richesse de leurs expériences personnelles et de leurs réflexions sur la vie.",
+    "curated_by": "elymc",
+    "read_time": "2 min",
+    "date": "17 hours ago",
+    "views": 5817,
+    "category": "Top",
+    "likes": 152,
+    "image_credits": "Stefania D'Alessandro - gettyimages.com",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/v1727728086/server_uploads/skxrcnabvf0td19ifbas.png",
+    "project_overview": "Cette série documentaire captivante offre un aperçu intime des histoires diverses et non filtrées des Américains ordinaires.",
+    "production_journey": "La série documentaire suit un voyage de 20 000 miles à travers l'Amérique avec 121 courtes interviews de personnes de petites villes et zones rurales.",
+    "content_significance": "Le projet capture des histoires personnelles et des réflexions de gens ordinaires, riches en diversité.",
+    "reissue_2024": "Prévu pour une réédition en HD sur YouTube à l'été 2024."
+  },
+  {
+    "id": 1,
+    "title": "David Lynch's Interview Project",
+    "content": "David Lynch's Interview Project, a compelling documentary series directed by Austin Lynch and Jason S, chronicles a 20,000-mile journey across America through 121 short interviews with individuals from small towns and rural areas. Set for an HD re-release on YouTube in summer 2024, this series offers an intimate glimpse into the diverse and unfiltered stories of everyday Americans.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1728181218/getty_uploads/870140864.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 3,
+    "title": "31-year Golden Owl Hunt",
+    "content": "After 31 years, the legendary French treasure hunt for the Golden Owl has finally concluded, as reported by BBC News. On October 3, 2024, it was announced that the buried replica of the golden owl statuette had been discovered, bringing an end to one of the world's longest-running scavenger hunts.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1727980811/server_uploads/uzcoepdk5vvrq2tf74ha.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 2,
+    "title": "Meta Unveils Movie Gen",
+    "content": "Meta has unveiled Movie Gen, a cutting-edge generative AI tool that can create and edit videos and audio using text prompts, marking a significant advancement in AI-powered media creation. As reported by CNET, this new technology allows users to generate high-quality videos, perform personalized video creation, edit existing footage, and produce synchronized audio content.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1728079780/server_uploads/i53asemb7bsbxkuwyp5g.jpg",
+    "category": "Technology & Science"
+  },
+
+  {
+    "id": 4,
+    "title": "Extinct Biblical Tree Regrown",
+    "content": "According to LiveScience, scientists have successfully cultivated a tree from a 1,000-year-old seed discovered in the Judean Desert, potentially reviving an extinct species linked to Biblical texts and offering promising medicinal properties.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1728085119/server_uploads/q3wrjith5m5fmz8axkja.webp",
+    "category": "Science"
+  },
+  {
+    "id": 5,
+    "title": "Pink Floyd Sold for $400M",
+    "content": "According to reports from the Financial Times and Variety, legendary British rock band Pink Floyd has sold their recorded music catalog, along with name and likeness rights, to Sony Music for approximately $400 million, marking one of the largest such deals in recent years.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1728095971/server_uploads/qv5bcbex2f1ghfbf6sgp.jpg",
+    "category": "Arts & Culture"
+  },
+  {
+    "id": 6,
+    "title": "US Job Market September Boom",
+    "content": "The U.S. job market showed unexpected strength in September, with nonfarm payrolls increasing by 254,000 jobs, significantly surpassing economists' forecasts of 140,000 and potentially altering the Federal Reserve's approach to interest rate cuts. The day before the report, Polymarket users had only placed 4% odds of such a strong report.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1728076976/getty_uploads/2175811742.jpg",
+    "category": "Finance"
+  },
+  {
+    "id": 7,
+    "title": "The .io Ownership Battle",
+    "content": "The .io domain, linked to the British Indian Ocean Territory, is at the center of a contentious ownership battle involving the UK, Mauritius, and the Chagossian people.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1727987295/user_uploads/fwcqpgmox/io.jpg",
+    "category": "Finance"
+  },
+  {
+    "id": 8,
+    "title": "First Full Brain Map of Fruit Fly",
+    "content": "Neuroscientists have successfully created the first full brain map of a fruit fly, an achievement that may lead to a better understanding of how complex behaviors emerge from neural networks.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/fetch/s--iDrhZJIL--/t_limit/https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/2023-03/neuron1.jpg",
+    "category": "Science"
+  },
+  {
+    "id": 9,
+    "title": "Rivian's Supply Chain Challenges",
+    "content": "Rivian, the electric vehicle manufacturer, has experienced notable declines in production and sales during the third quarter of 2024 due to ongoing supply chain disruptions.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1728084228/server_uploads/flufhg12bxk6rso1ytgk.webp",
+    "category": "Technology & Science"
+  },
+  {
+    "id": 10,
+    "title": "California Bans Legacy Admissions",
+    "content": "California has banned legacy and donor admissions preferences at private colleges and universities, making it the second state to enact such reforms.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1727909306/getty_uploads/2033128343.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 11,
+    "title": "FTC's Amazon Suit Partially Dismissed",
+    "content": "The U.S. FTC’s antitrust case against Amazon suffered a setback when the court dismissed some allegations, although critical claims concerning Amazon's monopoly power remain under consideration.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1727909810/server_uploads/rvgzobtvi7kcztbxi2p7.jpg",
+    "category": "Technology & Science"
+  },
+  {
+    "id": 12,
+    "title": "Google's Defense in Ad Tech Antitrust Trial",
+    "content": "Google is defending itself against allegations of monopolistic practices in the ongoing Ad Tech Antitrust trial. Reports indicate that the company is contesting the claims by showcasing its market diversity and competition.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1727830779/server_uploads/pmlcsnlvdbjlfgin3omz.webp",
+    "category": "Top"
+  },
+  {
+    "id": 13,
+    "title": "Rivian's Supply Chain Challenges",
+    "content": "Rivian, the electric vehicle manufacturer, has experienced notable declines in production and sales during the third quarter of 2024 due to ongoing supply chain disruptions.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1728084228/server_uploads/flufhg12bxk6rso1ytgk.webp",
+    "category": "Technology & Science"
+  },
+  {
+    "id": 14,
+    "title": "WWW Foundation Shut Down",
+    "content": "According to recent reports, the World Wide Web Foundation, founded by Sir Tim Berners-Lee in 2009 to promote an open and accessible internet, has announced its closure after 15 years of operation.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1727981322/getty_uploads/1164279583.jpg",
+    "category": "Top"
+  },
+  {
+    "id": 15,
+    "title": "Reddit's Protest Clampdown",
+    "content": "Reddit has implemented a significant policy change restricting moderators' ability to alter subreddit visibility settings, a move aimed at preventing large-scale protests on the platform.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1727830408/server_uploads/uivawnifmmurl5wzcmkc.jpg",
+    "category": "Arts & Culture"
+  },
+  {
+    "id": 16,
+    "title": "OpenAI Raises $6.6B",
+    "content": "OpenAI, the company behind ChatGPT, has secured a historic $6.6 billion funding round, valuing the firm at $157 billion and solidifying its position as one of the most valuable startups globally.",
+    "imageUrl": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1727773772/getty_uploads/2174798150.jpg",
+    "category": "Finance"
+  }
+]
