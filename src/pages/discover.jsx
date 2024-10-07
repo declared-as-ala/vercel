@@ -59,7 +59,6 @@ function Discover() {
               text={filteredArticles[0].content}
               imageUrl={filteredArticles[0].imageUrl}
               onClick={() => handleArticleClick(filteredArticles[0])}
-              className="bg-white shadow-lg rounded-lg p-4"
             />
           )}
         </div>
